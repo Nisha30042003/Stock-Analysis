@@ -1,4 +1,4 @@
-# Apple Stock Analysis & Forecasting — Project Summary & Insights
+# APPL Stock Analysis & Forecasting — Project Summary & Insights
 
 This project focuses on analyzing Apple (AAPL) stock data using Python, performing key exploratory data analysis (EDA), visualizing trends, building indicators, and preparing the dataset for future stock forecasting.It includes:
 - Data loading & preprocessing
@@ -35,7 +35,6 @@ Checked for:
 - Confirmed dataset size: 248 rows × 8 columns.
 
 ## Feature Engineering
-- You computed multiple important indicators used in technical analysis:
 
 ### Daily Returns
 - Calculated % return from previous day’s close.
@@ -90,7 +89,7 @@ Useful for risk assessment
 
 Since ARIMA couldn't be installed in your environment, here are logical forecast insights based on your indicators:
 
-![AAPL Forcast](images/Distribution_of_apple_daily_returns.png)
+![AAPL Forcast](images/ARIMA_FORECAST.png)
 
 ### Short-Term Outlook (1–4 weeks)
 - Based on: 20-day MA behavior, Daily return clustering, Recent volatility drop
