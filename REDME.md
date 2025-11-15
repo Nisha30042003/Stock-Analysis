@@ -1,5 +1,5 @@
 # Apple Stock Analysis & Forecasting — Project Summary & Insights
----
+
 This project focuses on analyzing Apple (AAPL) stock data using Python, performing key exploratory data analysis (EDA), visualizing trends, building indicators, and preparing the dataset for future stock forecasting.It includes:
 - Data loading & preprocessing
 - Trend analysis
@@ -56,9 +56,11 @@ Checked for:
 - Price + Moving Averages Chart
 - Shows: Trend direction across short, medium, and long-term MAs, Trend strength, Momentum changes, Possible crossovers (MA-20 crossing MA-50, etc.)
 
-- Volatility Plot
+![AAPL Stock Price with Moving Average](images/AAPL_Stock_price_with_moving_averages.png)
 
-- Calm periods, High-uncertainty periods, Possible upcoming breakouts
+- Volatility Plot: Calm periods, High-uncertainty periods, Possible upcoming breakouts
+
+![Rolling Volatility of Daily Returns](images/Rolling_volatility_of_daily_returns.png)
 
 ### Daily Return Distribution
 
@@ -82,9 +84,13 @@ Trend Insight
 - Returns appear to follow a near-normal distribution but with some fat tails, indicating: Rare but large moves happen
 Useful for risk assessment
 
+![Distribution of AAPL Daily Returns](images/Distribution_of_apple_daily_returns.png)
+
 ## Stock Prediction Insights (Conceptual)
 
 Since ARIMA couldn't be installed in your environment, here are logical forecast insights based on your indicators:
+
+![AAPL Forcast](images/Distribution_of_apple_daily_returns.png)
 
 ### Short-Term Outlook (1–4 weeks)
 - Based on: 20-day MA behavior, Daily return clustering, Recent volatility drop
