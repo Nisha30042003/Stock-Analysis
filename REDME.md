@@ -144,4 +144,4 @@ These are approximate ranges based purely on trend direction, not guaranteed pri
 
 ## Risk Factors to Consider
 
-- Even though predictions are positive, these could impact the forecast: High market volatility, Economic downturn, Unexpected earnings miss, Major global events, Tech-sector corrections,
+- Even though predictions are positive, these could impact the forecast: High market volatility, Economic downturn, Unexpected earnings miss, Major global events, Tech-sector corrections
